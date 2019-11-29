@@ -1,0 +1,32 @@
+
+
+h1.contac{
+    font-family: 'Raleway', sans-serif ; 
+    font-size : 40px
+}
+
+header{
+    background-color: rgb(200, 211, 241);
+    text-align: right ;
+    overflow: hidden;
+    padding: 10px;
+}
+
+
+section{
+    text-align: right;
+}
+
+a{
+    text-decoration:none;
+    color :grey
+}
+
+h4{
+    color :lightseagreen
+}
+
+h1.about{
+    font-family: 'Raleway', sans-serif ;
+    font-size:40px;
+}
